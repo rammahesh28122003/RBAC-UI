@@ -1,6 +1,7 @@
 # RBAC-UI
 
-A **Role-Based Access Control (RBAC)** User Interface project built with React.js.
+A **Role-Based Access Control (RBAC)** A Role-Based Access Control (RBAC) User Interface project built with React.js to efficiently manage users, roles, and permissions.
+
 
 ## Features
 
@@ -8,8 +9,34 @@ A **Role-Based Access Control (RBAC)** User Interface project built with React.j
 - Role management: Create and manage roles with dynamic permissions.
 - Permissions management: Assign and modify permissions for each role.
 
-## Installation
+##Installation and Setup
+Follow the steps below to set up the project on your local machine:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/rbac-ui.git
+1. Clone the Repository
+Use the following command to clone the repository:
+
+bash
+Copy code
+git clone https://github.com/rammahesh28122003/RBAC-UI.git
+2. Navigate to the Project Directory
+Move into the project folder:
+
+bash
+Copy code
+cd RBAC-UI
+3. Install Node.js
+Ensure you have Node.js and npm installed on your system:
+
+bash
+Copy code
+node -v
+npm -v
+If not installed, download and install Node.js from the Node.js Official Website.
+
+4. Install Dependencies
+Run the following command to install all the required dependencies:
+
+bash
+Copy code
+npm install
+Running the Project with npm start
