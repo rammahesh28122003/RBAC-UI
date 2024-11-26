@@ -1,0 +1,12 @@
+/* src/components/Permissions.css */
+.permissions {
+  padding: 20px;
+  background-color: #ffffff;
+  color: #201d0c;
+  border-radius: 8px;
+  }
+  
+  .permissions h2 {
+    font-size: 24px;
+  }
+  
