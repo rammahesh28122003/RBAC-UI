@@ -15,20 +15,19 @@ Follow the steps below to set up the project on your local machine:
 1. Clone the Repository
 Use the following command to clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/rammahesh28122003/RBAC-UI.git
+
+
 2. Navigate to the Project Directory
 Move into the project folder:
 
-bash
-Copy code
 cd RBAC-UI
+
+
 3. Install Node.js
 Ensure you have Node.js and npm installed on your system:
 
-bash
-Copy code
 node -v
 npm -v
 If not installed, download and install Node.js from the Node.js Official Website.
@@ -36,7 +35,7 @@ If not installed, download and install Node.js from the Node.js Official Website
 4. Install Dependencies
 Run the following command to install all the required dependencies:
 
-bash
-Copy code
 npm install
-Running the Project with npm start
+Running the Project 
+
+npm start
